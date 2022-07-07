@@ -5,19 +5,6 @@
 body {
     margin: 10px;
 }
-/*
-#titulo {
-    color: crimson;
-}
-
-.texto {
-    color: rgb(255, 0, 21);
-}
-
-
-
-/*Unindo o código anterior, já que ambos tem a mesma configuração*/
-
 
 .exemplo {
     background-color: antiquewhite;
@@ -35,22 +22,15 @@ body {
 #titulo {
     font-weight: normal;
 }
-/*div{
-    background-color: brown;
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
-    border: 3px dotted seagreen;
-}*/
+
 .texto {
     font-weight: bold;
 }
 
 ol li {
-    color: gold;
+    color: rgb(0, 136, 255);
     font-weight: bold;
 }
-
 
 #titulo {
     /*background-color: rgb(4, 22, 1);*/
