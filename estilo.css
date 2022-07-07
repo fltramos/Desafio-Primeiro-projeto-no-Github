@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 10px;
+}
+/*
+#titulo {
+    color: crimson;
+}
+
+.texto {
+    color: rgb(255, 0, 21);
+}
+
+
+
+/*Unindo o código anterior, já que ambos tem a mesma configuração*/
+
+
+.exemplo {
+    background-color: antiquewhite;
+    border: 1px solid mediumvioletred;
+    padding: 10px;
+    margin: 10px;
+}
+#titulo,
+.texto {
+    color: deeppink;
+    font-size: 25px;
+    text-align: center;
+}
+
+#titulo {
+    font-weight: normal;
+}
+/*div{
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 3px dotted seagreen;
+}*/
+.texto {
+    font-weight: bold;
+}
+
+ol li {
+    color: gold;
+    font-weight: bold;
+}
+
+
+#titulo {
+    /*background-color: rgb(4, 22, 1);*/
+    background-color: #dda3bb;
+    color: rgb(255, 255, 255);
+    
+}
